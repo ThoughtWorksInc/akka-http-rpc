@@ -1,4 +1,4 @@
-organization in ThisBuild := "com.thoughtworks.akka-http-webjars"
+organization in ThisBuild := "com.thoughtworks.akka-http-rpc"
 
 crossScalaVersions in ThisBuild := Seq("2.10.6", "2.11.8")
 
