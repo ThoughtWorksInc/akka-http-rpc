@@ -1,7 +1,5 @@
 organization in ThisBuild := "com.thoughtworks.akka-http-rpc"
 
-crossScalaVersions in ThisBuild := Seq("2.11.12", "2.12.8")
-
 libraryDependencies += "com.typesafe.akka" %% "akka-http" % "10.1.8"
 
 libraryDependencies += "com.lihaoyi" %% "upickle" % "0.7.1"
